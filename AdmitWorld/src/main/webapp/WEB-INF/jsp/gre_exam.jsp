@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>AdmitWorld Education Consultants</title>
+<title>AdmitWorld Edu Consultants</title>
 <style id="et-builder-module-design-cached-inline-styles">
 
 

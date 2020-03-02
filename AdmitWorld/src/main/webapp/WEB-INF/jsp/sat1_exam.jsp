@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>AdmitWorld Education Consultants</title>
+<title>AdmitWorld Edu Consultants</title>
 <style id="et-builder-module-design-cached-inline-styles">
 
 
@@ -89,7 +89,7 @@
 									<div id="header-style-01" class="et_pb_section et_pb_section_1 et_pb_fullwidth_section et_section_regular">
 										<div class="et_pb_module et_pb_fullwidth_post_title_0 et_pb_post_title  et_pb_text_align_left et_pb_bg_layout_light et_pb_image_above">
 											<div class="et_pb_title_container">
-												<h1 class="entry-title">SAT 1</h1>
+												<h1 class="entry-title">SAT I</h1>
 											</div>
 										</div>
 										<div

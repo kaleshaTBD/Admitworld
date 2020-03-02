@@ -1035,8 +1035,8 @@ header:hover .owl-next {
 							<ul class="sub-menu">
 								<li id="menu-item-1867" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1867"><a href="#" data-ps2id-api="true">North America</a>
 									<ul class="sub-menu">
-										<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="#" data-ps2id-api="true">Study in USA</a></li>
-										<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="#" data-ps2id-api="true">Study in Canada</a></li>
+										<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="study_in_usa" data-ps2id-api="true">Study in USA</a></li>
+										<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="study_canada" data-ps2id-api="true">Study in Canada</a></li>
 									</ul>
 								</li>
 								<li id="menu-item-1868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1868"><a href="#" data-ps2id-api="true">Europe</a>

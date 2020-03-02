@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>AdmitWorld Education Consultants</title>
+<title>AdmitWorld Edu Consultants</title>
 
 <style id="et-builder-module-design-cached-inline-styles">
 .et_pb_section_0.et_pb_section {
@@ -183,6 +183,7 @@ ul.job-openings-listing li a:hover
 {
 background-color: ##0c4da2;
 }
+
 </style>
 </head>
 <body>

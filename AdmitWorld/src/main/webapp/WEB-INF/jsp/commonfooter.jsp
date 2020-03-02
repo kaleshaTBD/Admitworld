@@ -133,7 +133,7 @@
 									</li>
 									<li id="menu-item-4472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4472"><a data-ps2id-api="true">Europe</a>
 										<ul class="sub-menu">
-											<li id="menu-item-4461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4461"><a href="study-in-ireland/index.html" data-ps2id-api="true">Study in Ireland</a></li>
+											<li id="menu-item-4461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4461"><a href="study-in_usa" data-ps2id-api="true">Study in Ireland</a></li>
 											<li id="menu-item-4470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4470"><a href="study-in-uk/index.html" data-ps2id-api="true">Study in UK</a></li>
 											<!--<li id="menu-item-4458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4458"><a href="study-in-france/index.html" data-ps2id-api="true">Study in France</a></li>-->
 											<!--<li id="menu-item-4459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4459"><a href="study-in-germany/index.html" data-ps2id-api="true">Study in Germany</a></li>-->
@@ -167,7 +167,7 @@
 							<h4 class="title">MBA Abroad</h4>
 							<div class="menu-footer-mba-abroad-menu-container">
 								<ul id="menu-footer-mba-abroad-menu" class="menu">
-									<li id="menu-item-5678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5678"><a href="study-in-usa/mba-in-usa/index.html" data-ps2id-api="true">MBA in USA</a></li>
+									<li id="menu-item-5678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5678"><a href="mba_in_usa" data-ps2id-api="true">MBA in USA</a></li>
 									<li id="menu-item-5686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5686"><a href="study-in-canada/mba-in-canada/index.html" data-ps2id-api="true">MBA in Canada</a></li>
 									<li id="menu-item-5687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5687"><a href="study-in-uk/mba-in-uk/index.html" data-ps2id-api="true">MBA in UK</a></li>
 									<li id="menu-item-5688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5688"><a href="study-in-ireland/mba-in-ireland/index.html" data-ps2id-api="true">MBA in Ireland</a></li>
@@ -192,7 +192,7 @@
 							<h4 class="title">Masters Abroad</h4>
 							<div class="menu-footer-masters-in-menu-container">
 								<ul id="menu-footer-masters-in-menu" class="menu">
-									<li id="menu-item-4975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975"><a href="study-in-usa/ms-in-us/index.html" data-ps2id-api="true">MS in USA</a></li>
+									<li id="menu-item-4975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975"><a href="ms_in_usa" data-ps2id-api="true">MS in USA</a></li>
 									<li id="menu-item-4977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4977"><a href="study-in-canada/ms-in-canada/index.html" data-ps2id-api="true">MS in Canada</a></li>
 									<li id="menu-item-4976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4976"><a href="study-in-uk/masters-in-uk/index.html" data-ps2id-api="true">Master&#8217;s in UK</a></li>
 									<li id="menu-item-4978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4978"><a href="study-in-ireland/masters-in-ireland/index.html" data-ps2id-api="true">Master&#8217;s in Ireland</a></li>

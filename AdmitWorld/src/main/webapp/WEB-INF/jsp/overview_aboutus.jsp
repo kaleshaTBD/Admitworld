@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>About Us - Admitworld Education Consultants - Study Abroad | Career Guidance</title>
+<title>About Us - Admitworld Edu Consultants</title>
 	<meta name="description" content="Admit World is one of the leading overseas education consultants guiding students wishing to study abroad. We also provides course &amp; career guidance." />
 
    <style>
