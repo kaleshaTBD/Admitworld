@@ -319,7 +319,7 @@ color:#00A8E8;
 								<p id="breadcrumbs">
 									
 												
-									<span><span><a href="index">Home</a> &#187; <span><a href="study-in_usa">Study in USA</a> &#187; <span class="breadcrumb_last" aria-current="page">MBA in USA</span></span></span></span>			
+									<span><span><a href="index">Home</a> &#187; <span><a href="study_in_usa">Study in USA</a> &#187; <span class="breadcrumb_last" aria-current="page">MBA in USA</span></span></span></span>			
 												
 								</p>
 							</div>

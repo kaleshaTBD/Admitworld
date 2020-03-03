@@ -86,16 +86,21 @@
 							<div id="et-boc" class="et-boc">
 								<div class="et_builder_inner_content et_pb_gutters3">
 
-									<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular">
-										<div
-											class="et_pb_module et_pb_fullwidth_post_title_0 et_pb_post_title  et_pb_text_align_left et_pb_bg_layout_light et_pb_featured_bg">
+										<div id="header-style-01" class="et_pb_section et_pb_section_1 et_pb_fullwidth_section et_section_regular">
+										<div class="et_pb_module et_pb_fullwidth_post_title_0 et_pb_post_title  et_pb_text_align_left et_pb_bg_layout_light et_pb_image_above">
 											<div class="et_pb_title_container">
 												<h1 class="entry-title">Exams</h1>
 											</div>
 										</div>
+										<div
+											class="et_pb_module et_pb_fullwidth_code et_pb_fullwidth_code_0">
+											<div class="et_pb_code_inner">
+												<span><a href="index">Home</a> </span>
+											</div>
+										</div>
 									</div>
 
-								<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
+								<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left" style="margin-top: 40px;">
 									<div class="et_pb_text_inner">
 										<p style="text-align: center;">
 											To study abroad, different countries have different prep test
@@ -118,7 +123,7 @@
 									</div>
 								</div>
 								<div id="end-of-page-exam-list"
-								class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
+								class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" style="background-color: #eeeeee;">
 								<div class="et_pb_row et_pb_row_0">
 								<div class="col-md-3"></div>
 									<div class="col-md-6">
@@ -133,10 +138,11 @@
 													data-pagination="{&quot;id&quot;:&quot;2185&quot;,&quot;base_permalink&quot;:&quot;/exams/ielts/?wpv_view_count=2185-TCPID1057&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://Admitworldindia.com/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:0,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}"
 													data-permalink="/exams/ielts/?wpv_view_count=2185-TCPID1057">
 													<ul class="exams-list">
+														<li><a href="ielts">IELTS</a></li>
 														<li><a href="pte">PTE</a></li>
-														<li><a href="sat-1/">SAT
+														<li><a href="sat1">SAT
 																I</a></li>
-														<li><a href="sat-2/">SAT
+														<li><a href="sat2">SAT
 																II</a></li>
 														<li><a
 															href="toefl">TOEFL</a></li>
@@ -162,7 +168,7 @@
 	</div>
 </div>
 								
-
+<jsp:include page="commonfooter.jsp" />
 
 </body>
 </html>

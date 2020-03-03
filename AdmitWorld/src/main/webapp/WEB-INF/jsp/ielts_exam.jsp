@@ -1522,16 +1522,16 @@
 													data-pagination="{&quot;id&quot;:&quot;2185&quot;,&quot;base_permalink&quot;:&quot;/exams/ielts/?wpv_view_count=2185-TCPID1057&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:0,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}"
 													data-permalink="/exams/ielts/?wpv_view_count=2185-TCPID1057">
 													<ul class="exams-list">
-														<li><a href="pte/">PTE</a></li>
-														<li><a href="sat-1/">SAT
+														<li><a href="pte">PTE</a></li>
+														<li><a href="sat1">SAT
 																I</a></li>
-														<li><a href="sat-2/">SAT
+														<li><a href="sat2">SAT
 																II</a></li>
 														<li><a
 															href="toefl">TOEFL</a></li>
-														<li><a href="act/">ACT</a></li>
-														<li><a href="gmat/">GMAT</a></li>
-														<li><a href="gre/">GRE</a></li>
+														<li><a href="act">ACT</a></li>
+														<li><a href="gmat">GMAT</a></li>
+														<li><a href="gre">GRE</a></li>
 													</ul>
 												</div>
 												<p></p>

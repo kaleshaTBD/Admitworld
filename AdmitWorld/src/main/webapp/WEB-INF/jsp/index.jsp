@@ -1,3 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>AdmitWorld Education Consultants</title>
+<style>
+
+ </style>
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
+ 
+</head>
+<body>
+
 <jsp:include page="commonheader.jsp" />
 	 <div id="et-main-area">
 		<div id="main-content">
@@ -81,7 +111,7 @@
 								<section class="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_0 et_pb_bg_layout_dark et_pb_text_align_left">
 									<div class="et_pb_fullwidth_header_container left">
 										<div class="header-content-container center">
-											<div class="header-content">
+											<div class="header-content wow zoomIn">
 												<h1 class="et_pb_module_header"><center>Welcome to AdmitWorld Education Consultants</center></h1>
 												<div class="et_pb_header_content_wrapper">
 													<h3 style="text-align: center;">We are an overseas education consultancy as well as a career guidance company that guides students to study abroad or choose the right course and career in India. Our expertise is in selecting the right country and course so as to enable students to build a great career, and also in helping students get scholarships</h3></div>
@@ -165,7 +195,7 @@
 								<div class="et_pb_row et_pb_row_2 et_pb_row_fullwidth">
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_0 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInLeft">
 												<div class="et_pb_main_blurb_image">
 												   <a href="what-we-do/index.html">
 												      <span class="et_pb_image_wrap">
@@ -186,7 +216,7 @@
 									</div>
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_1 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInUp">
 								                <div class="et_pb_main_blurb_image">
 													<a href="what-we-do/index.html">
 													  <span class="et_pb_image_wrap">
@@ -206,7 +236,7 @@
 									</div>
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_2 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInRight">
 									             <div class="et_pb_main_blurb_image">
 													<a href="what-we-do/index.html">
 													  <span class="et_pb_image_wrap">
@@ -240,7 +270,7 @@
 								<div class="et_pb_row et_pb_row_4 et_pb_row_fullwidth">
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_3 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInLeft">
 												<div class="et_pb_main_blurb_image">
 												   <a href="uk-university-january-intake-courses-2020/index.html" target="_blank">
 												     <span class="et_pb_image_wrap">
@@ -262,7 +292,7 @@
 									</div>
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_4 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInUp">
 												<div class="et_pb_main_blurb_image">
 												  <a href="university-course/data-science-masters-in-ireland/index.html" target="_blank">
 													    <span class="et_pb_image_wrap">
@@ -285,7 +315,7 @@
 									</div>
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_5 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
-											<div class="et_pb_blurb_content">
+											<div class="et_pb_blurb_content wow slideInRight">
 												<div class="et_pb_main_blurb_image">
 												   <a href="study-in-usa/bachelors-in-usa/index.html" target="_blank">
 													  <span class="et_pb_image_wrap">
@@ -347,7 +377,7 @@
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty"></div>
 								</div>
 							</div>
-							<div class="et_pb_section et_pb_section_6 global-stats et_pb_section_parallax et_pb_with_background et_section_regular">
+							<div class="et_pb_section et_pb_section_6 global-stats et_pb_section_parallax et_pb_with_background et_section_regular wow zoomIn">
 								<div class="et_parallax_bg_wrap">
 									<div class="et_parallax_bg" style="background-image: url(wp-content/uploads/2019/04/credentials-bg-homepage.jpg);"></div>
 								</div>
@@ -434,3 +464,5 @@
     </div>
 
 	    <jsp:include page="commonfooter.jsp" />
+	    </body>
+	    </html>

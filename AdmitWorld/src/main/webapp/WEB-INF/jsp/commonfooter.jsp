@@ -97,8 +97,6 @@
 									<li id="menu-item-4450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4450"><a href="work_with_us" data-ps2id-api="true">Work With Us</a></li>
 									<li id="menu-item-4453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4453"><a href="wall_of_frame" data-ps2id-api="true">Wall of Fame</a></li>
 									<li id="menu-item-4452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4452"><a href="career_guidance_and_counseling" data-ps2id-api="true">Career Guidance and Counseling</a></li>
-									<li id="menu-item-8505" class="menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-8505"><a href="event/index.html" data-ps2id-api="true">Events</a></li>
-									<li id="menu-item-8526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8526"><a href="news-updates/index.html" data-ps2id-api="true">News &#038; Updates</a></li>
 									<li id="menu-item-4451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4451"><a href="contact_us" data-ps2id-api="true">Contact Us</a></li>
 								</ul>
 							</div>
@@ -127,8 +125,8 @@
 								<ul id="menu-footer-study-in-country-menu" class="menu">
 									<li id="menu-item-4454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4454"><a data-ps2id-api="true">North America</a>
 										<ul class="sub-menu">
-											<li id="menu-item-4456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4456"><a href="study-in-canada/index.html" data-ps2id-api="true">Study in Canada</a></li>
-											<li id="menu-item-4471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4471"><a href="study-in-usa/index.html" data-ps2id-api="true">Study in USA</a></li>
+											<li id="menu-item-4456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4456"><a href="study_in_canada" data-ps2id-api="true">Study in Canada</a></li>
+											<li id="menu-item-4471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4471"><a href="study_in_usa" data-ps2id-api="true">Study in USA</a></li>
 										</ul>
 									</li>
 									<li id="menu-item-4472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4472"><a data-ps2id-api="true">Europe</a>
@@ -168,7 +166,7 @@
 							<div class="menu-footer-mba-abroad-menu-container">
 								<ul id="menu-footer-mba-abroad-menu" class="menu">
 									<li id="menu-item-5678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5678"><a href="mba_in_usa" data-ps2id-api="true">MBA in USA</a></li>
-									<li id="menu-item-5686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5686"><a href="study-in-canada/mba-in-canada/index.html" data-ps2id-api="true">MBA in Canada</a></li>
+									<li id="menu-item-5686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5686"><a href="mba_in_canada" data-ps2id-api="true">MBA in Canada</a></li>
 									<li id="menu-item-5687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5687"><a href="study-in-uk/mba-in-uk/index.html" data-ps2id-api="true">MBA in UK</a></li>
 									<li id="menu-item-5688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5688"><a href="study-in-ireland/mba-in-ireland/index.html" data-ps2id-api="true">MBA in Ireland</a></li>
 									<!--<li id="menu-item-5689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5689"><a href="study-in-germany/mba-in-germany/index.html" data-ps2id-api="true">MBA in Germany</a></li>-->
@@ -193,7 +191,7 @@
 							<div class="menu-footer-masters-in-menu-container">
 								<ul id="menu-footer-masters-in-menu" class="menu">
 									<li id="menu-item-4975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975"><a href="ms_in_usa" data-ps2id-api="true">MS in USA</a></li>
-									<li id="menu-item-4977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4977"><a href="study-in-canada/ms-in-canada/index.html" data-ps2id-api="true">MS in Canada</a></li>
+									<li id="menu-item-4977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4977"><a href="ms_in_canada" data-ps2id-api="true">MS in Canada</a></li>
 									<li id="menu-item-4976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4976"><a href="study-in-uk/masters-in-uk/index.html" data-ps2id-api="true">Master&#8217;s in UK</a></li>
 									<li id="menu-item-4978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4978"><a href="study-in-ireland/masters-in-ireland/index.html" data-ps2id-api="true">Master&#8217;s in Ireland</a></li>
 									<!--<li id="menu-item-4979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4979"><a href="study-in-france/masters-in-france/index.html" data-ps2id-api="true">Masters in France</a></li>-->

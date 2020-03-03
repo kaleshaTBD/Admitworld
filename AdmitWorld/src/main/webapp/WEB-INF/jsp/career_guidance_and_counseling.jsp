@@ -716,7 +716,21 @@ div.et_pb_section.et_pb_section_0 {
 
  </style>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
 
 </head>
 <body>
@@ -753,7 +767,7 @@ div.et_pb_section.et_pb_section_0 {
 									</div>
 								</div>
 							</div>
-							<div id="career-confusion-section"	class="et_pb_section et_pb_section_1 et_section_regular">
+							<div id="career-confusion-section"	class="et_pb_section et_pb_section_1 et_section_regular wow bounceInUp">
 								<div id="career-confusion-row" class="et_pb_row et_pb_row_1">
 									<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
 										<div class="et_pb_module et_pb_text et_pb_text_0 career-confusion-module et_pb_bg_layout_light  et_pb_text_align_left">
@@ -799,7 +813,7 @@ div.et_pb_section.et_pb_section_0 {
 									</div>
 								</div>
 							</div>
-							<div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
+							<div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider wow fadeInLeft">
 								<div class="et_pb_top_inside_divider"></div>
 								<div class="et_pb_row et_pb_row_2 et_pb_row_fullwidth">
 									<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -812,7 +826,7 @@ div.et_pb_section.et_pb_section_0 {
 										</div>
 									</div>
 								</div>
-								<div class="et_pb_row et_pb_row_3 et_pb_row_fullwidth et_pb_row_4col" style="max-width:100% !important";>
+								<div class="et_pb_row et_pb_row_3 et_pb_row_fullwidth et_pb_row_4col" style="max-width:100% !important">
 									<div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
 										<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_1 et_pb_bg_layout_light  et_pb_text_align_center  et_pb_blurb_position_top">
 											<div class="et_pb_blurb_content">
@@ -877,7 +891,7 @@ div.et_pb_section.et_pb_section_0 {
 								</div>
 								<div class="et_pb_bottom_inside_divider"></div>
 							</div>
-							<div id="career-guidance-seciton" class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular">
+							<div id="career-guidance-seciton" class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular wow fadeInRight">
 							 
 								<div id="career-guidance-row-2" class="et_pb_with_border et_pb_row et_pb_row_5 _mPS2id-t" style="border:1px solid #FDC735;">
 									<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
@@ -999,7 +1013,7 @@ div.et_pb_section.et_pb_section_0 {
 										</div>
 									</div>
 								</div>
-								<div class="et_pb_row et_pb_row_9 et_pb_row_fullwidth et_pb_equal_columns et_pb_gutters2 et_pb_row_4col" style="max-width:100%">
+								<div class="et_pb_row et_pb_row_9 et_pb_row_fullwidth et_pb_equal_columns et_pb_gutters2 et_pb_row_4colm wow slideInDown" style="max-width:100%">
 									<div	class="et_pb_column et_pb_column_1_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough">
 										<div id="career-counseling-main-blurb" class="et_pb_module et_pb_blurb et_pb_blurb_5 et_pb_bg_layout_light  et_pb_text_align_center  et_pb_blurb_position_top">
 											<div class="et_pb_blurb_content">
@@ -1091,7 +1105,7 @@ div.et_pb_section.et_pb_section_0 {
 									</div>
 								</div>
 								<div
-									class="et_pb_row et_pb_row_10 et_pb_row_fullwidth et_pb_equal_columns et_pb_gutters2 et_pb_row_4col" style="max-width:100%">
+									class="et_pb_row et_pb_row_10 et_pb_row_fullwidth et_pb_equal_columns et_pb_gutters2 et_pb_row_4col wow slideInUp" style="max-width:100%">
 									<div
 										class="et_pb_column et_pb_column_1_4 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough">
 										<div id="career-counseling-main-blurb"
@@ -1196,7 +1210,7 @@ div.et_pb_section.et_pb_section_0 {
 										</div>
 									</div>
 								</div>
-								<div class="et_pb_row">
+								<div class="et_pb_row wow zoomIn">
 							      <div class="col-md-2"></div>
 							      <div class="col-md-10" style="border:1px solid #fdc735;">
 								     <ul class="nav nav-tabs" style="background-color:#ccc;padding:0px">

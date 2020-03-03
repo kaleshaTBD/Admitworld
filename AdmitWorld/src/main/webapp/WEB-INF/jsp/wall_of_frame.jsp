@@ -73,27 +73,7 @@ clear:both !important;
 							data-ajaxprebefore="" data-ajaxbefore="" data-ajaxafter="" /><input
 							class="wpv_view_count wpv_view_count-2328" type="hidden"
 							name="wpv_view_count" value="2328" />
-						<div class="container">
-							<div class="row  filter-row">
-								<div class="col-xs-6">
-									<div class="form-group">
-										<label>Countries</label> <select name="wpv-country"
-											class="js-wpv-filter-trigger form-control"><option
-												selected='selected' value="0">Select By Country</option>
-											<option value="australia">Australia</option>
-											<option value="canada">Canada</option>
-											<option value="dubai">Dubai</option>
-											<option value="hong-kong">Hong Kong</option>
-											<option value="ireland">Ireland</option>
-											<option value="new-zealand">New Zealand</option>
-											<option value="singapore">Singapore</option>
-											<option value="switzerland">Switzerland</option>
-											<option value="uk">UK</option>
-											<option value="usa">USA</option></select>
-									</div>
-								</div>
-							</div>
-						</div>
+						
 					</form>
 					
 					<div id="wpv-view-layout-2328"

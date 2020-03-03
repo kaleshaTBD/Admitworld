@@ -253,6 +253,21 @@
 		}
 	}
 	    </style>
+	      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
 </head>
 <body>
 	    <jsp:include page="commonheader.jsp" />
@@ -274,14 +289,14 @@
 										<div class="et_pb_row et_pb_row_0">
 											<div class="et_pb_column et_pb_column_2_5 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
 												<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
-													<div class="et_pb_text_inner">
+													<div class="et_pb_text_inner wow slideInLeft">
 														<h2 id="alright-we-know-there-is-much-"><strong>Alright we know there is much to speak about us! It&#8217;s nice to know that you are interested&#8230;&#8230;</strong></h2>
 													</div>
 												</div>
 											</div>
 											<div class="et_pb_column et_pb_column_3_5 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 												<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
-											<div class="et_pb_text_inner">
+											<div class="et_pb_text_inner wow slideInRight">
 												<p>
 													Admitworld is an overseas education consultancy advising
 													students wishing to study abroad. Our team of experts also
@@ -346,7 +361,7 @@
 								   </div>
 								   <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
 										<div class="et_pb_top_inside_divider et-no-transition"></div>
-										<div class="et_pb_row et_pb_row_1">
+										<div class="et_pb_row et_pb_row_1 wow zoomIn">
 											<div class="et_pb_column et_pb_column_2_5 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
 												<div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
@@ -369,7 +384,7 @@
 						  	       </div>
 					               <div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
 										<div class="et_pb_top_inside_divider et-no-transition"></div>
-										<div class="et_pb_row">
+										<div class="et_pb_row wow slideInLeft">
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
@@ -396,7 +411,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="et_pb_row">
+										<div class="et_pb_row wow zoomIn">
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_7 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
@@ -436,7 +451,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="et_pb_row">
+										<div class="et_pb_row wow slideInRight">
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">

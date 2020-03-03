@@ -1167,12 +1167,12 @@
 													data-permalink="/exams/ielts/?wpv_view_count=2185-TCPID1057">
 													<ul class="exams-list">
 														<li><a href="pte">PTE</a></li>
-														<li><a href="sat-1/">SAT
+														<li><a href="sat1">SAT
 																I</a></li>
-														<li><a href="sat-2/">SAT
+														<li><a href="sat2">SAT
 																II</a></li>
 														<li><a
-															href="toefl">TOEFL</a></li>
+															href="ielts">IELTS</a></li>
 														<li><a href="act">ACT</a></li>
 														<li><a href="gmat">GMAT</a></li>
 														<li><a href="gre">GRE</a></li>

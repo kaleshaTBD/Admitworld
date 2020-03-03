@@ -185,6 +185,21 @@ background-color: ##0c4da2;
 }
 
 </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
 </head>
 <body>
 	<jsp:include page="commonheader.jsp" />
@@ -197,7 +212,7 @@ background-color: ##0c4da2;
 					<div id="et-boc" class="et-boc">
 						<div class="et_builder_inner_content et_pb_gutters3">
 
-							<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular">
+							<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular wow slideInDown">
 								<div class="et_pb_module et_pb_fullwidth_post_title_0 et_pb_post_title  et_pb_text_align_left et_pb_bg_layout_light et_pb_featured_bg">
 									<div class="et_pb_title_container">
 										<h1 class="entry-title">Work With Us</h1>
@@ -280,7 +295,7 @@ background-color: ##0c4da2;
 
 							<div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
 								<div class="et_pb_top_inside_divider"></div>
-								<div class="et_pb_row et_pb_row_1">
+								<div class="et_pb_row et_pb_row_1 wow zoomIn">
 								    <div class="et_pb_text_inner">
 												<h2 id="current-job-openings" style="text-align: center;">Current Job Openings &#8211; Full Time</h2>
 									</div>
@@ -296,14 +311,14 @@ background-color: ##0c4da2;
 													data-pagination="{&quot;id&quot;:&quot;2181&quot;,&quot;base_permalink&quot;:&quot;/work-with-us/?wpv_view_count=2181-TCPID560&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://Admitworld.com/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:0,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}"
 													data-permalink="/work-with-us/?wpv_view_count=2181-TCPID560">
 													<ul class="job-openings-listing">
-														<li style="list-style-type: none;"><a href="job-opening/essay-sop-editor/">Essay/ SOP Editor</a></li>
+														<li style="list-style-type: none;"><a href="#">Essay/ SOP Editor</a></li>
 														<li style="list-style-type: none;">
-														    <a href="assistant-counsellor-education-counsellor/">
+														    <a href="#">
 														     Education Counsellor / Assistant Counsellor
 														     </a>
 														 </li>
 														<li style="list-style-type: none;">
-															<a href="senior-education-counsellor-senior-counsellor/">
+															<a href="#">
 															    SeniorEducation Counsellor / Senior Counsellor
 															 </a>
 														</li>

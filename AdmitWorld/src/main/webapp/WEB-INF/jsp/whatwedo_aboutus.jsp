@@ -81,6 +81,21 @@ function toggleIcon(e) {
 $('.panel-group').on('hidden.bs.collapse', toggleIcon);
 $('.panel-group').on('shown.bs.collapse', toggleIcon);
 </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
 </head>
 <body>
 	<jsp:include page="commonheader.jsp" />
@@ -101,7 +116,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 													class="et_pb_column et_pb_column_2_5 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
 													<div
 														class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
-														<div class="et_pb_text_inner">
+														<div class="et_pb_text_inner wow slideInLeft">
 															<h1 id="what-we-do">
 																<strong>What We Do</strong>
 															</h1>
@@ -112,7 +127,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 													class="et_pb_column et_pb_column_3_5 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 													<div
 														class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
-														<div class="et_pb_text_inner">
+														<div class="et_pb_text_inner wow slideInRight">
 															<h2 id="everything-that-we-do-is-for-s">Everything
 																that we do is for students and careers</h2>
 															<p>Admitworld derives its competency from a panel
@@ -156,7 +171,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 												<div class="et_pb_text_inner">
 													<div id="wpv-view-layout-2149-TCPID464"
 														class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-2149-TCPID464">
-														<div class="row">
+														<div class="row wow slideInLeft">
 															<div class="col-md-2"></div>
 															<div class="col-md-2">
 																<div class="col-md-12 bg-white">
@@ -229,44 +244,9 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															<div class="col-md-2"></div>
 														</div>
 														
-														<div class="row" style="margin-top: 15px;">
+														<div class="row wow slideInRight" style="margin-top: 15px;">
 															<div class="col-md-2"></div>
 															
-															<div class="col-md-2">
-																<div class="col-md-12 bg-white">
-																	<div class="col-md-5"
-																		style="padding: 10px; text-align: center">
-																		<a href="#"> <img
-																			src="wp-content/uploads/2018/11/hong-kong-flag.jpg"
-																			title="hong-kong-flag" class="attachment-full">
-																		</a>
-																	</div>
-																	<div class="col-md-7"
-																		style="padding: 10px; text-align: center; padding: 35px 5px">
-																		<a href="#">
-																			<h6>Study in Hong Kong</h6>
-																		</a>
-																	</div>
-																</div>
-															</div>
-															
-															<div class="col-md-2">
-																<div class="col-md-12 bg-white">
-																	<div class="col-md-5"
-																		style="padding: 10px; text-align: center">
-																		<a href="#"> <img
-																			src="wp-content/uploads/2018/11/malaysia-flag.jpg"
-																			title="malaysia-flag" class="attachment-full">
-																		</a>
-																	</div>
-																	<div class="col-md-7"
-																		style="padding: 10px; text-align: center; padding: 35px 5px">
-																		<a href="#">
-																			<h6>Study in Malaysia</h6>
-																		</a>
-																	</div>
-																</div>
-															</div>
 															<div class="col-md-2">
 																<div class="col-md-12 bg-white">
 																	<div class="col-md-5"
@@ -302,13 +282,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 																	</div>
 																</div>
 															</div>
-															<div class="col-md-2"></div>
-														</div>
-														
-														<div class="row" style="margin-top: 15px;">
-															<div class="col-md-2"></div>
-														
-														
+																
 															<div class="col-md-2">
 																<div class="col-md-12 bg-white">
 																	<div class="col-md-5"
@@ -345,9 +319,10 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 																</div>
 															</div>
 															
-															
-															<div class="col-md-6"></div>
+															<div class="col-md-2"></div>
 														</div>
+														
+													
 													
 
 													</div>
@@ -389,7 +364,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 										<div class="col-md-2"></div>
 										<div class="col-md-4">
 											<div
-												class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_0 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left">
+												class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_0 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left wow slideInLeft">
 												<div class="et_pb_blurb_content">
 													<div class="et_pb_main_blurb_image">
 														<span class="et_pb_image_wrap"> <span
@@ -416,7 +391,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 										</div>
 										<div class="col-md-4">
 											<div
-												class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_1 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left">
+												class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_1 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left wow slideInRight">
 												<div class="et_pb_blurb_content">
 													<div class="et_pb_main_blurb_image">
 														<span class="et_pb_image_wrap"> <span
@@ -525,7 +500,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 								<div
 									class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
 
-									<div class="et_pb_row et_pb_row_8 "
+									<div class="et_pb_row et_pb_row_8 wow zoomIn"
 										style="text-align: center; display: table; margin: 0 auto">
 										<div
 											class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">

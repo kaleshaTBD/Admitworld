@@ -8,6 +8,23 @@
 <style>
 
  </style>
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+ 		<script src="wp-content/wow.js"></script>
+              <script>
+              wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
+              </script>
+ 
 </head>
 <body>
 
@@ -27,7 +44,7 @@
 		           </div>
 		        </div>
 		     </div>
-		     <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+		     <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular wow zoomIn">
 		        <div class="et_pb_row et_pb_row_0">
 				     <div class="col-md-2"></div>
 				     <div class="col-md-4">
@@ -73,7 +90,7 @@
 				 </div>
 			 </div>
 		     <div class="et_pb_section et_pb_section_3 et_section_regular">
-				      <div class="et_pb_row et_pb_row_1">
+				      <div class="et_pb_row et_pb_row_1 wow zoomIn">
 					         <div class="col-md-3"></div>
 					         <div class="col-md-6" class="bg-color">
 					           <div id="form-module" class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_center">
